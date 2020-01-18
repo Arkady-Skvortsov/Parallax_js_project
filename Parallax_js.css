@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+
+body {
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.scene {
+	position: fixed;
+	min-height: 100vh;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.layers {
+	position: absolute;
+	left: -10px;
+	top: 0;
+	width: 110%;
+	height: 100%;
+}
+
+.l-1 {
+	background: url('https://psmedia.playstation.com/is/image/psmedia/the-last-of-us-remastered-screenshot-05-ps4-eu-29oct14?$MediaCarousel_Original$') center no-repeat;
+	background-size: cover;
+}
+
+.l-2 {
+	background: url('img6/Joel_and_Ellie.png') center no-repeat;
+	background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
